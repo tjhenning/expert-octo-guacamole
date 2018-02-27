@@ -15,13 +15,7 @@ Further information on naming conventions can be found within the CS 300 Style G
 
 ## Commenting style for public and private members of a class or interface:
 
-**For inline commenting :**
-  * /*
-  *  * This is
-  *  * okay.
-  *  */
-  * // And so
-  * // is this
+**For inline commenting :** use /* ... */ or // symbols to comment
 
 
 ### Examples
