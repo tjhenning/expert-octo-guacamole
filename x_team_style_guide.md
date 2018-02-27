@@ -15,24 +15,16 @@ Further information on naming conventions can be found within the CS 300 Style G
 
 ## Commenting style for public and private members of a class or interface:
 
-Main functions: 
-* Highlight the major steps of your algorithm
-* Explain long calculations or conditions tied to unobvious state
-* Clarify convoluted or unusual code
-* Clarify the purpose of non-temporary local variables and fields
-* Mark locations where you suspect a bug may exist
-* Mark locations where improvements or enhancements are planned
+Further information on commenting style can be found within the CS 300 Style Guide. This information is summarized below:
 
-**For inline commenting :** use /* ... */ or // symbols to comment
+### Summary
 
-
-### Examples
-
-* classes
-* fields
-* constructors
-* methods
-* coding style (brackets, horizontal, and vertical spacing) for:
+* All Classes and Methods (including Constructors) must have JavaDoc headers
+* Either single line (//...) or multi-line (/*...*/) may be used
+  * Provide descriptive comments for field and variable declarations
+  * Inline comments will be used to describe high level algorithm choices
+  
+* Coding Style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
   * while loops
