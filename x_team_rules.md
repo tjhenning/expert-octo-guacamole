@@ -24,7 +24,7 @@ and missed deadlines.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-* 
+* Create a timeline as part of our Google Sheet for tasks.
 
 ## How do we keep code style uniform 
 * Follow the code styles learned in [CS300](http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
