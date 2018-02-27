@@ -10,7 +10,8 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+* Try to meet weekly during projects to split tasks evenly amongst group members
+* Communicate each others progress in our chat on GroupMe
 
 ## How will we will track progress (and follow-up) on completion of tasks
 Frequent communication.
@@ -25,3 +26,5 @@ or anything else important we might need to tell them.
 
 
 
+## How do we keep code style uniform 
+Follow the code styles learned in CS300. [Link here](http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
