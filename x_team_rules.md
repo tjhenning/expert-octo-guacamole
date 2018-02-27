@@ -25,5 +25,5 @@ or anything else important we might need to tell them.
 
 
 
-
-
+## How do we keep code style uniform 
+Follow the code styles learned in CS300. [Link here](http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
