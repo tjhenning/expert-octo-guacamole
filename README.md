@@ -1,4 +1,4 @@
-# super-octo-system
+# super-octo-guacamole
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
@@ -7,11 +7,11 @@
        * GitHub username 2: mhagenow01
        * GitHub username 3: JerryHanZD
        * GitHub username 4: jonnyhenningson
-       * GitHub username 5:
+       * GitHub username 5: Hakump
    * When did you complete this exercise? 
    2/27
    * How long did it take your team to complete this exercise? 
-   Around 45 minutes I guess. A few of us were already a bit familiar with github.
+   Around 45 minutes I guess. A few of us were already a bit familiar with Github.
    
 ## Table of Contents
 
