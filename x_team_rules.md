@@ -27,4 +27,4 @@ and missed deadlines.
 * 
 
 ## How do we keep code style uniform 
-* Follow the code styles learned in [CS300] (http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
+* Follow the code styles learned in [CS300](http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
