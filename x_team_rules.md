@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 06 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -18,7 +18,8 @@ and missed deadlines.
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+We can use the group chat to communicate difficulties we are having 
+or anything else important we might need to tell them.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
