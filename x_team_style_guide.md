@@ -4,18 +4,14 @@ Our team will utilize the style guide used in CS 300 at University of Wisconsin-
 
 ## Naming conventions
 
-Further information on naming conventions can be found within the CS 300 Style Guide. Some examples are provided below:
+Further information on naming conventions can be found within the CS 300 Style Guide. This information is summarized below:
 
-### Examples
-* interfaces
-* classes
-* exception types
-* fields
-* methods
-* parameters
-* local variables
-* instance constants
-* class constants
+### Summary
+* Class and Interface are written in UpperCamelCase and are typically nouns or noun phrases
+* Methods, Fields, and Local Variable names are written in lowerCamelCase
+  * Method names are typically verbs or verb phrases
+  * Field and Local Variable names are typically nouns or noun phrases
+* Constants are written in CONSTANT_CASE
 
 ## Commenting style for public and private members of a class or interface:
 
