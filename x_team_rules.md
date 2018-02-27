@@ -11,20 +11,20 @@ and missed deadlines.
 ## How we will assign (and reassign) tasks
 
 * Try to meet weekly during projects to split tasks evenly amongst group members
-* Communicate each others progress in our chat on GroupMe
+* Establish Google Sheet that lists the current tasks and who is responsible for them
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Frequent communication.
 
+* Communicate each others progress in our chat on GroupMe
+* Update the Google Sheet once a task has been completed
 
 ## How will will communicate difficulties with a task assigned to us
 
-We can use the group chat to communicate difficulties we are having 
-or anything else important we might need to tell them.
+* Use the group chat to communicate any problems or difficulties with an assigned task so that other members can provide assistance
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+* 
 
 ## How do we keep code style uniform 
-Follow the code styles learned in CS300. [Link here](http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
+* Follow the code styles learned in [CS300] (http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
