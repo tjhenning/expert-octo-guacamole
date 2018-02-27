@@ -3,14 +3,16 @@
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
    * What are the GitHub usernames of your team members?
-       * GitHub username 1:
-       * GitHub username 2:
-       * GitHub username 3:
-       * GitHub username 4:
+       * GitHub username 1: tjhenning
+       * GitHub username 2: mhagenow01
+       * GitHub username 3: JerryHanZD
+       * GitHub username 4: jonnyhenningson
        * GitHub username 5:
    * When did you complete this exercise? 
+   2/27
    * How long did it take your team to complete this exercise? 
-
+   Around 45 minutes I guess. A few of us were already a bit familiar with github.
+   
 ## Table of Contents
 
 1. TODO.md - contains instructions for what to do for this assignment
