@@ -10,8 +10,11 @@ Further information on naming conventions can be found within the CS 300 Style G
 * Class and Interface are written in UpperCamelCase and are typically nouns or noun phrases
 * Methods, Fields, and Local Variable names are written in lowerCamelCase
   * Method names are typically verbs or verb phrases
+    * ex. getHeight
   * Field and Local Variable names are typically nouns or noun phrases
+    * ex. numberOfItems
 * Constants are written in CONSTANT_CASE
+  * ex. MAX_SIZE
 
 ## Commenting style for public and private members of a class or interface:
 
