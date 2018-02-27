@@ -4,7 +4,7 @@ This document describes what X-team members must do to complete X-Team Exercise 
 
 ## 1. Create a personal GitHub account
 
-All Team Members must complete this step.
+**All Team Members must complete this step.**
 
   1. Go to GitHub.com
   2. Create a personal account using your wisc.edu email address
@@ -36,7 +36,7 @@ Only one team member completes this step.
 
 ## 3. Learn some markdown and edit a file on GitHub.com
 
-All Team Members must complete this step.
+**All Team Members must complete this step.**
 
   1. Learn a few .md file markdown rules (https://guides.github.com/features/mastering-markdown/)
   2. Help determine and draft the content for the exercise
@@ -60,7 +60,7 @@ All team members must help draft content and edit files.  The x_team_rules.md fi
 
 ## 5. Update x_style_guide.md
 
-All team members must help draft content and edit files.  The x_style_guide.md file is where you will document the the coding style rules your team agrees to follow.  Please be sure to do the following for this document.
+**All team members must help draft content and edit files.**  The x_style_guide.md file is where you will document the the coding style rules your team agrees to follow.  Please be sure to do the following for this document.
 
 1. Replace NN in the top heading with your X-team's number.
 2. Document your team's opinion or philosophy regarding the value and use of style guides.
