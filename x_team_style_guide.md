@@ -7,15 +7,15 @@ Our team will utilize the style guide used in CS 300 at University of Wisconsin-
 Further information on naming conventions can be found within the CS 300 Style Guide. Some examples are provided below:
 
 ### Examples
-* interfaces
-* classes
-* exception types
-* fields
-* methods
-* parameters
-* local variables
-* instance constants
-* class constants
+* interfaces: UpperCamelCase
+* classes:  UpperCamelCase
+* exception types UpperCamelCase
+* fields:  lowerCamelCase
+* methods:  lowerCamelCase
+* parameters:  lowerCamelCase
+* local variables:  lowerCamelCase
+* instance constants: CONSTANT_CASE
+* class constants:  UpperCamelCase
 
 ## Commenting style for public and private members of a class or interface:
 
