@@ -23,6 +23,6 @@
 1. EDIT FILES AS DESCRIBED IN TODO.md
 2. Submit the finished version of the following files to Canvas:
 
-* README.md
-* x_team_rules.md
-* x_style_guide.md
+* **README.md**
+* **x_team_rules.md**
+* **x_style_guide.md**
