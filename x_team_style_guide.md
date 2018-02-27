@@ -1,6 +1,6 @@
-# X-Team NN Style Guide
+# X-Team 06 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Our team will utilize the style guide from COMP 300 at University of Wisconsin. This can be found at the following <a href="http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/">link</a>. Key elements are repeated below:
 
 ## Naming conventions
 
