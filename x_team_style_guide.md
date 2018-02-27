@@ -14,7 +14,7 @@ Further information on naming conventions can be found within the CS 300 Style G
   * Field and Local Variable names are typically nouns or noun phrases
     * ex. numberOfItems
 * Constants are written in CONSTANT_CASE
-  * ex. MAX_SIZE
+    * ex. MAX_SIZE
 
 ## Commenting style for public and private members of a class or interface:
 
