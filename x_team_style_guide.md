@@ -15,6 +15,14 @@ Further information on naming conventions can be found within the CS 300 Style G
 
 ## Commenting style for public and private members of a class or interface:
 
+Main functions: 
+* Highlight the major steps of your algorithm
+* Explain long calculations or conditions tied to unobvious state
+* Clarify convoluted or unusual code
+* Clarify the purpose of non-temporary local variables and fields
+* Mark locations where you suspect a bug may exist
+* Mark locations where improvements or enhancements are planned
+
 **For inline commenting :** use /* ... */ or // symbols to comment
 
 
