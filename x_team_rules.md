@@ -13,12 +13,12 @@ and missed deadlines.
 * Try to meet weekly during projects to split tasks evenly amongst group members
 * Establish Google Sheet that lists the current tasks and who is responsible for them
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How we will track progress (and follow-up) on completion of tasks
 
 * Communicate each others progress in our chat on GroupMe
 * Update the Google Sheet once a task has been completed
 
-## How will will communicate difficulties with a task assigned to us
+## How we will communicate difficulties with a task assigned to us
 
 * Use the group chat to communicate any problems or difficulties with an assigned task so that other members can provide assistance.
 
