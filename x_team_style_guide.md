@@ -30,6 +30,8 @@ Further information on commenting style can be found within the CS 300 Style Gui
 * Coding Style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
+    * Brackets are put on same line as switch statement
+    * The body of the switch statement is indented like all other code blocks
   * while loops
   * for loops
   * enhanced for loops
