@@ -23,7 +23,7 @@ Further information on commenting style can be found within the CS 300 Style Gui
 ### Summary
 
 * All Classes and Methods (including Constructors) must have JavaDoc headers
-* Either single line (//...) or multi-line (/<code>&ast;</code>...<code>&ast;</code>/) may be used
+* Either single line (//...) or multi-line (/\*...\*/) may be used
   * Provide descriptive comments for field and variable declarations
   * Inline comments will be used to describe high level algorithm choices
   
