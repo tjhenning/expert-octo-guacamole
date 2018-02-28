@@ -11,7 +11,7 @@
    * When did you complete this exercise? 
    2/27
    * How long did it take your team to complete this exercise? 
-   Around 45 minutes I guess. A few of us were already a bit familiar with Github.
+   Around an hour. A few of us were already familiar with Github.
    
 ## Table of Contents
 
