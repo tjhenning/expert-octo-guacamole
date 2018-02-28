@@ -29,15 +29,17 @@ Further information on commenting style can be found within the CS 300 Style Gui
   
 * Coding Style (brackets, horizontal, and vertical spacing):
   * Include a line break before the opening brace for code blocks
-    ```
+  * Include a line break after the opening brace
+  * Include a line break after the closing brace
+  * All blocks are indented by +4 spaces
+   
+   ```
     if (condition)
     {
         //code
     }
+    //Next line of code
     ```
-  * Include a line break after the opening brace
-  * Include a line break after the closing brace
-  * All blocks are indented by +4 spaces
   * All lines of code should be less than or equal to 100 characters
     * Longer lines should be wrapped to the same indentation
     * Breaks should generally be before the operator
