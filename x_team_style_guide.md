@@ -27,7 +27,13 @@ Further information on commenting style can be found within the CS 300 Style Gui
   * Provide descriptive comments for field and variable declarations
   * Inline comments will be used to describe high level algorithm choices
   
-* Coding Style (brackets, horizontal, and vertical spacing) for:
+* Coding Style (brackets, horizontal, and vertical spacing):
+  * Include a line break before the opening brace for code blocks
+  * Include a line break after the opening brace
+  * Include a line break after the closing brace
+  * All blocks are indented by +4 spaces
+  * All lines of code should be less than or equal to 100 characters. Longer lines should be wrapped to the same indentation.
+  
   * if statements
   * switch statement
     * Brackets are put on same line as switch statement
