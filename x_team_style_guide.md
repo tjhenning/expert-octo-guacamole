@@ -32,6 +32,7 @@ Further information on commenting style can be found within the CS 300 Style Gui
   * Include a line break after the opening brace
   * Include a line break after the closing brace
   * All blocks are indented by +4 spaces
+  * Each statement is followed by a line break
    
    ```
     if (condition)
@@ -45,6 +46,7 @@ Further information on commenting style can be found within the CS 300 Style Gui
     * Breaks should generally be before the operator
   
   * if statements
+    * The body of the if statement is indented
   * switch statement
     * Brackets are put on same line as switch statement
     * The body of the switch statement is indented like all other code blocks
