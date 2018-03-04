@@ -44,10 +44,3 @@ Further information on commenting style can be found within the CS 300 Style Gui
     * Longer lines should be wrapped to the same indentation
     * Breaks should generally be before the operator
   
-  * if statements
-  * switch statement
-    * Brackets are put on same line as switch statement
-    * The body of the switch statement is indented like all other code blocks
-  * while loops
-  * for loops
-  * enhanced for loops
